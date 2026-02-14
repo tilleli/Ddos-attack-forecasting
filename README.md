@@ -185,7 +185,7 @@ Le modèle analyse ces séquences et apprend à détecter :
 ## 🏗️ Architecture
 
 ### Pipeline complet du projet
-
+![Schéma d'architecture](Diagramme.svg)
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667eea','secondaryColor':'#764ba2'}}}%%
 flowchart LR

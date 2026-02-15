@@ -1,13 +1,14 @@
-# DDoS Defense: From Reactive to Proactive Detection
+# Forecasting DDoS Attacks 1 to 10 Seconds Before Occurrence
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+ 
+We propose an AI-powered predictive system designed to continuously analyze network traffic and identify early precursor patterns of a DDoS attack before full-scale impact.
 
-**Forecasting DDoS Attacks 1 to 10 Seconds Before Occurrence**
+The objective is to transition from traditional reactive mitigation strategies to proactive, real-time threat anticipation using machine learning.
+
+
+ 
 
 </div>
 
@@ -19,29 +20,11 @@ Distributed Denial of Service (DDoS) attacks aim to overwhelm target servers by 
 
 These attacks result in service outages, preventing legitimate users from accessing essential resources.
 
----
-
-## The Limitation of Current Solutions
-
-Traditional security systems—such as Standard Intrusion Detection Systems (IDS), firewalls, and antivirus software—operate in a reactive mode.
-
-### Core Issues with This Approach
-
-1. **Late Detection**  
-   Attacks are often identified only after they have already started.
-
-2. **Service Degradation**  
-   By the time an alert is triggered, servers are already saturated, leading to performance drops or total downtime.
-
-3. **Narrow Window of Action**  
-   Once the attack is underway, there is insufficient time for effective mitigation before significant damage occurs.
+ [![DDoS Attack Explanation](https://img.shields.io/badge/DDoS-Explanation-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/fr-fr/learning/ddos/what-is-a-ddos-attack/)
 
 
----
 
- ## Our Solution
-
-We propose an AI-powered predictive system designed to continuously analyze network traffic and identify the early precursor patterns of a DDoS attack.
+ 
 
 ---
 
@@ -57,6 +40,10 @@ These early indicators provide a critical opportunity for anticipation.
 
 ---
 
+##  Architecture
+
+ 
+![Schéma d'architecture](Diagramme.svg)
 ## Our Methodology
 
 ### Time-Series Analysis
@@ -234,23 +221,13 @@ For any sequence at position i:
 
  
 
-##  Architecture
-
- 
-![Schéma d'architecture](Diagramme.svg)
  
  
 ---
 
 <div align="center">
 
-##  Technologies
-
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+ 
 
 **Datasets** :  
 [![Dataset IDS-2017](https://img.shields.io/badge/Dataset-IDS2017-blue?style=for-the-badge)](https://www.unb.ca/cic/datasets/ids-2017.html)

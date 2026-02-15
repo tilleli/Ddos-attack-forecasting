@@ -244,7 +244,7 @@ For any sequence at position i:
 
 <div align="center">
 
-## 🛠️ Technologies
+##  Technologies
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
@@ -252,20 +252,22 @@ For any sequence at position i:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Datasets** : CICIDS2017 • CICDDOS2019
+**Datasets** :  
+[![Dataset IDS-2017](https://img.shields.io/badge/Dataset-IDS2017-blue?style=for-the-badge)](https://www.unb.ca/cic/datasets/ids-2017.html)
+[![Dataset CICDDoS2019](https://img.shields.io/badge/Dataset-CICDDoS2019-red?style=for-the-badge)](https://www.unb.ca/cic/datasets/ddos-2019.html)
+
 
 ---
 
-## 📫 Contact
+##  Contact
 
-**[Votre Nom]**
+**[IDER TILLELI]**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](votre-lien)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](votre-lien)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tilleli-ider-b0ba18221/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idertilleli@gmail.com)
 
 ---
 
-⭐ **Si ce projet vous intéresse, n'hésitez pas à lui donner une étoile !**
+ 
 
 </div>
